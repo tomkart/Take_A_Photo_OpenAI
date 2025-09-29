@@ -1,4 +1,4 @@
-# AI mini camera that can describe the photo taken
+# An AI mini camera that can describe the photos it takes.
 
 ### Getting the description of a photo from LLM with Freenove Media Kit for ESP32-S3
 
