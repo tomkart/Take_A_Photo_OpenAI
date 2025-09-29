@@ -1,8 +1,10 @@
+# AI mini camera that can describe the photo taken
+
 ### Getting the description of a photo from LLM with Freenove Media Kit for ESP32-S3
 
 Based on the example by Freenove
-https://docs.freenove.com/projects/fnk0102/en/latest/fnk0102/codes/Main/9_Camera_TFT_Test.html
-Added getting the description of a photo from LLM (OpenAI in this example)
+https://docs.freenove.com/projects/fnk0102/en/latest/fnk0102/codes/Main/9_Camera_TFT_Test.html<br>
+Added the ability to get a photo description from an LLM (OpenAI in this example).
 
 ### Example results
 Example 1
